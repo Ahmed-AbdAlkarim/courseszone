@@ -1,0 +1,300 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family:  "Marhey", sans-serif;;
+}
+
+body
+{
+    height: 100%;    
+}
+
+.head
+{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;  
+}
+
+a
+{
+color: #023876;
+}
+
+.space
+{
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.photo
+{
+    height: 60px;   
+}
+
+.container
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height: 830px;
+    background-color: #023876;
+}
+
+.lab
+{
+    width: 250px;
+    margin-bottom: 50px;
+}
+
+h2
+{
+    margin-bottom: 20px;
+}
+
+p
+{
+    margin-bottom: 20px;
+}
+
+button
+{
+    width: 15%;
+    padding: 8px;
+    border-radius: 10px;
+    border: 1px solid color #023876;
+    background-color: #023876;
+    color: white;
+    font-size: 15px;
+}
+.counter
+{
+    background-color: white;
+    padding: 15px; 
+    color: #023876;   
+}
+
+nav
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+.right
+{
+    display: flex;
+    align-items: center; 
+}
+
+.center
+{
+    display: flex;
+    align-items: center;  
+}
+
+.left
+{
+    display: flex;
+    align-items: center; 
+}
+
+h3
+{
+    margin-right: 10px;
+    font-size:20px;
+}
+
+.per
+{
+    font-size: 30px;
+}
+
+.ourcourse
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:#023876;
+    background-color:white ;   
+}
+
+span
+{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.cap
+{
+    font-size: 35px;
+}
+
+h4
+{
+    margin-right: 10px;
+    font-size: 30px;
+}
+
+.card
+{
+    width: 250px;
+    padding: 20px;
+    margin: 2%;
+    background: #fff;
+    border-radius: 8px;
+    border: 2px solid #023876;  
+    border-bottom: 5px solid #023876 ;
+    text-align: center;
+    color: #023876;
+}
+
+.lock
+{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+h6
+{
+    font-size: 15px;
+}
+
+.card-link
+{
+   background-color: #023876;
+   text-decoration: none; 
+   color: white;
+   padding: 4px 12px 4px 12px;
+   border-radius: 8px;
+   
+}
+
+.ourtrainer
+{
+    background-color: #023876;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.our
+{
+    display:flex;
+    justify-content: center;
+    color: #fff;
+}
+
+.ok
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+.small
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.land
+{
+    width: 120px;
+    height: 120px;
+    border-radius: 70px;
+}
+
+h5
+{
+    font-size: 25px;
+    color: #fff;
+}
+.sz
+{
+    font-size: 15px;
+    color: #fff;
+}
+
+.who
+{
+    display: block;
+    text-align: center;
+    color: #023876;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.tx
+{
+    font-size: 35px;   
+    display: flex;
+    justify-content: center;
+}
+
+.ph
+{
+    width: 200px;
+}
+
+.last
+{
+    display: flex;
+    flex-direction: row ;
+    justify-content: space-around;
+    text-align: center;
+    background-color: #111;
+    color: #fff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.location
+{
+    color: #023876;
+    padding: 5px 20px;
+    border: 1px solid #023876;
+    border-radius: 25px;
+    margin-bottom: 10px;
+}
+
+.loc
+{
+   
+    width: 200px ;
+    align-self: center;
+}
+
+.pho
+{
+    color: #023876;
+    padding: 5px 20px;
+    border: 1px solid #023876;
+    border-radius: 25px;
+    margin-bottom: 10px;
+}
+
+.email
+{
+    color: #023876;
+    padding: 5px 20px;
+    border: 1px solid #023876;
+    border-radius: 25px;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
